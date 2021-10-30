@@ -1,3 +1,5 @@
 # Find a word in a file
 
-Usage: ./find-word filename.txt word
+Find a word in a file easily
+
+**Usage: ./find-word filename.txt word**
